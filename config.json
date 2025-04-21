@@ -1,1 +1,19 @@
-{"template_image": "static\\uploads\\IDLC_Eid Emailer.png", "name": {"x": 151, "y": 1675, "font": "arial.ttf", "size": 60, "color": "#000000", "alignment": "center"}, "designation": {"x": 151, "y": 1839, "font": "arial.ttf", "size": 50, "color": "#000000", "alignment": "center"}}
+{
+  "template_image": "",
+  "name": {
+    "x": 50,
+    "y": 50,
+    "font": "arial.ttf",
+    "size": 40,
+    "color": "#000000",
+    "alignment": "center"
+  },
+  "designation": {
+    "x": 50,
+    "y": 120,
+    "font": "arial.ttf",
+    "size": 30,
+    "color": "#000000",
+    "alignment": "center"
+  }
+}
